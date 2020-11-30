@@ -30,7 +30,7 @@
             <input name="password" type="password" class="form-control mb-3" placeholder="Masukan password ...">
             <button class="btn btn-warning btn-sm mt-3">SIGN-IN</button>
 
-            <span class="mt-3 mb-3 span-divider">Belum punya akun <a href="{{ url('/registrasi') }}">Registrasi disini</a></span>
+            <span class="mt-3 mb-3 span-divider">Belum punya akun <a href="{{ url('/registrasi') }}">Registrasi Disini</a></span>
              <span class="mt-3 mb-3 span-divider"><a href="{{ url('/') }}">Beranda</a></span>
           </form>
         </div>
@@ -38,9 +38,6 @@
   </div>
 
 </section>
-
-
-
 
 </body>
 

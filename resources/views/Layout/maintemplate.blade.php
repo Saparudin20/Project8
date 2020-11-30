@@ -45,7 +45,7 @@
                             <div class="sb-nav-link-icon">
                                 <i class="fas fa-tachometer-alt"></i>
                             </div>
-                            Dashboard
+                            Beranda
                         </a>
                         <a class="nav-link" href="{{url('user/artikel', request()->user()->id)}}">
                             <div class="sb-nav-link-icon">
@@ -56,7 +56,7 @@
                     </div>
                 </div>
                 <div class="sb-sidenav-footer cyan darken-3">
-                    &copy; Copyright: Yahya
+                    &copy; Copyright: @Saparudin
                 </div>
             </nav>
         </div>

@@ -18,8 +18,8 @@
                     </div>
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title">Selamat datang di SISTEM BLOG ARTIKEL</h5>
-                    <p class="card-text">Blog adalah salah satu jenis website yang kontennya berisi pemikiran satu atau beberapa penulis dan memiliki urutan posting secara kronologis (dari konten terbaru ke konten terlama</p>
+                    <h5 class="card-title">SELAMAT DATANG SISTEM BLOG ARTIKEL</h5>
+                    <p class="card-text">Blog adalah heararki teks, gambar, objek media dan data yang disusun secara kronoligis dan dapat dilihat dalam browser HTML (Harvard University)</p>
                 </div>
                 <div class="card-footer text-muted">
                     Admin Blog

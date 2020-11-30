@@ -9,7 +9,7 @@
   <div class="col-md-6">
    <div class="card-artikel">
     <h1 class="beranda-title">WELCOME TO BLOG</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum soluta sint cum modi eligendi, tenetur libero quod, aliquid cumque, laboriosam labore sed totam. Quidem nulla saepe, magni officia voluptate beatae.</p>
+    <p>Blog berasal dari kata Web dan Log (WEBLOG) yang berarti catatan online (yang berada di web).Pengertian yang lebih lengkap, blog adalah situs web yang berisi tulisan, artikel atau informasi bermanfaat yang diupdate (diperbaharui) secara teratur dan dapat diakses secara online baik untuk umum maupun pribad.</p>
   </div>
 </div>
 <div class="col-md-6">
